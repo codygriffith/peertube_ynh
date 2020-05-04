@@ -1,4 +1,4 @@
-SOURCE_URL=https://github.com/codygriffith/PeerTube/releases/download/v2.1.1/peertube-v2.1.1.tar.xz
+SOURCE_URL=https://github.com/chocobozzz/PeerTube/releases/download/v2.1.1/peertube-v2.1.1.tar.xz
 SOURCE_SUM=D0C5A8D00D3258493AFDC5BECD81E516B2002D9F1241525E1DDBE1F8F74E432B
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.xz
