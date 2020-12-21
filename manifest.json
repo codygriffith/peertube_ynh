@@ -7,15 +7,15 @@
         "fr": "Plateforme de diffusion vidéo par P2P directement dans le navigateur, et connectée à un réseau fédéralisé"
     },
     "version": "2.1.1~ynh1",
-    "url": "https://github.com/Chocobozzz/PeerTube",
+    "url": "https://github.com/codygriffith/PeerTube",
     "license": "AGPL-3.0-only",
     "maintainer": [
         {
-            "name": "Anmol Sharma",
-            "email": "anmol@datamol.org"
+            "name": "Cody Griffith",
+            "email": "cody@alenthea.com"
         },
         {
-            "name": "yalh76"
+            "name": "codygriffith"
         }
     ],
     "requirements": {
